@@ -146,4 +146,4 @@ public function __construct(\App\Repositories\Example $example)
 ```php
 {{ widget_hello_world({'lorem': 'ipsum'}) }}
 ```
-每一个传递的参数，然后在您的小部件类中可用$this->$key.在上面的例子会产生$this->lorem的值。
+每一个传递的参数，然后在您的小部件类中可用$this->$key.在上面的例子会产生$this->lorem的值为ipsum。
