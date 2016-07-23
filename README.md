@@ -5,11 +5,11 @@ Caffeinated Widgets
 [![Source](http://img.shields.io/badge/source-caffeinated/menus-blue.svg?style=flat-square)](https://github.com/caffeinated/menus)
 [![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://tldrlegal.com/license/mit-license)
 
-Easily create reusable widget components to be used throughout your Laravel application. Widgets are very similar to Laravel's view composers, but in more of a dedicated sense.
+在laravel应用中轻松创建可重用的Widgets. Widgets非常类似Laravel的视图控件, 但它更有意义.
 
-The package follows the FIG standards PSR-1, PSR-2, and PSR-4 to ensure a high level of interoperability between shared PHP code. At the moment the package is not unit tested, but is planned to be covered later down the road.
+这个包符合PSR-1，psr-2，和psr-4规范，确保共享高水平的PHP代码之间的互操作性。 目前，该包没有单元测试，但计划在以后会被测试覆盖.
 
-Documentation
+说明文档
 -------------
 You will find user friendly and updated documentation in the wiki here: [Caffeinated Widgets Wiki](https://github.com/caffeinated/widgets/wiki)
 
